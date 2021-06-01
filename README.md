@@ -49,6 +49,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [404-Not-Found](https://abhayxkumar.github.io/Interior-Consultant-WebPage/)
+- Website [Interior Consultant WebPage](https://abhayxkumar.github.io/Interior-Consultant-WebPage/)
 - GitHub [@abhayxkumar](https://github.com/abhayxkumar)
 - Twitter [@abhayxkumar](https://twitter.com/abhayxkumar)
